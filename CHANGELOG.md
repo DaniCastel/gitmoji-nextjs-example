@@ -5,6 +5,7 @@
 
 ### Miscellaneous
 
+- 🤡 Mock examples [[da82c3b](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/da82c3b63a8a5b14fda9c87d1d5a360126fc697a)]
 -  Initial commit from Create Next App [[48c2e8c](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/48c2e8c055da753a63ead572ae56cf3cb0c071f6)]
 
 

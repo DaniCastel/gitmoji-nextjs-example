@@ -20,7 +20,7 @@ export default function Home() {
       {/* <div>:art: Improve structure / format of the code</div>  */}
       {/* <div>:zap: Improve query performance</div> */}
       {/* <h1>:fire: Remove code or files</h1> */}
-      {/* <div>:sparkles: Feature 2</div> */}
+      <div>:sparkles: Feature 2</div>
       {/* <div>:sparkles: New plugin</div>  */}
       {/* <div>:lipstick: PLD UI improvements</div>  */}
       {/* <div>:ambulance: Security fixes 4.0.7</div>  */}
