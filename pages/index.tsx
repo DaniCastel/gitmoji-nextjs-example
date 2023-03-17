@@ -23,6 +23,7 @@ export default function Home() {
       <div>:sparkles: New plugin</div> 
       <div>:lipstick: PLD UI improvements</div> 
       <div>:ambulance: Security fixes 4.0.7</div> 
+      <div>:bug: Bug</div> 
       {/* <div>:arrow_up: Upgrade Snap</div> */}
       </main>
     </>
