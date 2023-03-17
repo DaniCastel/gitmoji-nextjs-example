@@ -1,5 +1,18 @@
 # Changelog
 
+<a name="1.4.0"></a>
+## 1.4.0 (2023-03-17)
+
+### Fixed
+
+- 🐛 Bug resuelto [[2dfe4cb](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/2dfe4cb8ed9b086e7b13c27f95a56683679011de)]
+
+### Miscellaneous
+
+-  1.4.0 [[3728928](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/37289280b37ffa3d24319ff1ba979f1e19f68c8b)]
+-  Changelog [[ef5792e](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/ef5792ee867f7c5a0db3f15211c610f5d2ddbb64)]
+
+
 <a name="1.3.0"></a>
 ## 1.3.0 (2023-03-17)
 
