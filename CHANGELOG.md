@@ -1,5 +1,26 @@
 # Changelog
 
+<a name="1.3.0"></a>
+## 1.3.0 (2023-03-17)
+
+### Added
+
+- ✨ New plugin [[1b193b1](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/1b193b1b5503e50c1f4e0e440da7f7978aacb899)]
+
+### Changed
+
+- 💄 PLD UI improvements [[f752b69](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/f752b69196385ea55939dde8e6171b6106cc03d2)]
+
+### Fixed
+
+- 🚑 Security fixes 4.0.7 [[ce45a27](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/ce45a274b5c783926fd868b7db19394e49e6fb93)]
+
+### Miscellaneous
+
+-  1.3.0 [[c4f3c2b](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/c4f3c2b57073eac9aca755b42154001408d79e13)]
+-  Changelog [[24848bd](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/24848bde9e0ba2a352e3a6cd6a923ade294f8488)]
+
+
 <a name="1.2.0"></a>
 
 ## 1.2.0 (2023-03-17)
