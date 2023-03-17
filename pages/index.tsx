@@ -21,7 +21,7 @@ export default function Home() {
       <div>:zap: Improve query performance</div>
       <div>:sparkles: Feature 2</div>
       {/* <div>:sparkles: New plugin</div>  */}
-      {/* <div>:lipstick: PLD UI improvements</div>  */}
+      <div>:lipstick: PLD UI improvements</div> 
       {/* <div>:ambulance: Security fixes 4.0.7</div>  */}
       {/* <div>:arrow_up: Upgrade Snap</div> */}
       </main>
