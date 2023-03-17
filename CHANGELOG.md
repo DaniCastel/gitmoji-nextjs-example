@@ -1,5 +1,13 @@
 # Changelog
 
+<a name="1.2.0"></a>
+
+## 1.2.0 (2023-03-17)
+
+### Miscellaneous
+
+- 🚧 Work in progress [[dfa89ea](https://github.com/DaniCastel/gitmoji-nextjs-example/commit/dfa89ea15b77404dcd97539a155fbf2f36e1c66b)]
+
 <a name="1.1.0"></a>
 
 ## 1.1.0 (2023-03-17)
